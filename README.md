@@ -26,8 +26,8 @@ This project follows the MVVM architecture:
 
 ## Screenshots
 
-![Screenshot 2024-08-19 154242](https://github.com/user-attachments/assets/c1dc6ddd-05c9-4723-97f6-675bcdc00597)
 ![Screenshot 2024-08-19 154339](https://github.com/user-attachments/assets/a71d4467-199f-4ecc-856b-106e21160ff8)
+![Screenshot 2024-08-19 154242](https://github.com/user-attachments/assets/c1dc6ddd-05c9-4723-97f6-675bcdc00597)
 
 
 
@@ -53,8 +53,5 @@ To run this project locally, follow these steps:
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
